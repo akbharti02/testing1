@@ -2,3 +2,8 @@
 
 updating this in local1
 updating this in local2
+
+diff main different code hai 
+jisse main new branch mai liya tha 
+per main mai latest hai and
+sath mere branch mai bhi mera new changes bhi hai
